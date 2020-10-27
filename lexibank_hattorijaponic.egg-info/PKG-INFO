@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: lexibank-hattorijaponic
+Version: 0.0.0
+Summary: CLDF Dataset derived from Hattori's "Japanese Dialects" from 1973
+Home-page: https://github.com/SequenceComparison/SupplementaryMaterial/zipball/master
+License: https://creativecommons.org/licenses/by-nc/4.0/
+Description: UNKNOWN
+Platform: UNKNOWN
+Provides-Extra: test

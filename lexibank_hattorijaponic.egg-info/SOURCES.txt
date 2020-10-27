@@ -1,0 +1,10 @@
+lexibank_hattorijaponic.py
+setup.cfg
+setup.py
+lexibank_hattorijaponic.egg-info/PKG-INFO
+lexibank_hattorijaponic.egg-info/SOURCES.txt
+lexibank_hattorijaponic.egg-info/dependency_links.txt
+lexibank_hattorijaponic.egg-info/entry_points.txt
+lexibank_hattorijaponic.egg-info/not-zip-safe
+lexibank_hattorijaponic.egg-info/requires.txt
+lexibank_hattorijaponic.egg-info/top_level.txt
