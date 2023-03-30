@@ -1,8 +1,14 @@
 # CLDF Dataset derived from Hattori's "Japanese Dialects" from 1973
 
-Cite the source dataset as
+## How to cite
 
-> Hattori, S. (1973): Japanese dialects. In: Diachronic, areal and typological linguistics. Edited by H. M. Hoenigswald and R. H. Langacre. 368-400.
+If you use these data please cite
+- the original source
+  > Hattori, S. (1973): Japanese dialects. In: Diachronic, areal and typological linguistics. Edited by H. M. Hoenigswald and R. H. Langacre. 368-400.
+- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
+
+## Description
+
 
 This dataset is licensed under a CC-By-4.0 license
 
@@ -17,8 +23,8 @@ Conceptlists in Concepticon:
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
-![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
+![BIPA: 97%](https://img.shields.io/badge/BIPA-97%25-green.svg "BIPA: 97%")
+![CLTS SoundClass: 97%](https://img.shields.io/badge/CLTS%20SoundClass-97%25-green.svg "CLTS SoundClass: 97%")
 
 - **Varieties:** 10
 - **Concepts:** 200
@@ -29,7 +35,7 @@ Conceptlists in Concepticon:
 - **Cognate Diversity:** 0.15
 - **Invalid lexemes:** 0
 - **Tokens:** 9,042
-- **Segments:** 65 (0 BIPA errors, 0 CTLS sound class errors, 65 CLTS modified)
+- **Segments:** 65 (2 BIPA errors, 2 CLTS sound class errors, 63 CLTS modified)
 - **Inventory size (avg):** 36.30
 
 # Contributors
@@ -43,3 +49,10 @@ K. Vogt | | digitization of Japanese data | DataCollector
 Shirō Hattori | | collection of original data | DataCollector
 
 
+
+
+## CLDF Datasets
+
+The following CLDF datasets are available in [cldf](cldf):
+
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)
