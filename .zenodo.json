@@ -7,10 +7,14 @@
     ],
     "creators": [
         {
-            "name": "Johann-Mattis List"
+            "name": "Shir\u014d Hattori"
         }
     ],
     "contributors": [
+        {
+            "name": "Johann-Mattis List",
+            "type": "Other"
+        },
         {
             "name": "M. Dickmanns",
             "type": "DataCollector"
@@ -21,10 +25,6 @@
         },
         {
             "name": "K. Vogt",
-            "type": "DataCollector"
-        },
-        {
-            "name": "Shir\u014d Hattori",
             "type": "DataCollector"
         }
     ],
